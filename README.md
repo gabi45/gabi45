@@ -1,3 +1,4 @@
 ### Perfil Gabriele Alves 👋
 # Gabriele Alves
-## Rua José Barbosa de Araújo, 102
+# Idade: 26 anos 
+## Rua José Barbosa de Araújo, 102 Jardim Santa Bárbara 
