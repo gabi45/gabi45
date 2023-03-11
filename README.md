@@ -14,7 +14,6 @@ Não Tenho Filhos
 Minha formação é: Téc. em Segurança do Trabalho e Graduada em Administração de empresas 
 Estou me especializando na área de programação Front End em HTML, CSS e Java Script
 
-<a href="https://www.sysgaya.com.br/">Visite o meu site e explore todos os meus serviços</a>
 
 <img src="https://pps.whatsapp.net/v/t61.24694-24/315780251_500515648734624_314079439919280424_n.jpg?ccb=11-4&oh=01_AdTkSkwo_CWKUzGUhOBaisRzIREPLAjXf6mwCBvB3sPE3w&oe=641A0D5C" width="20%">
 
