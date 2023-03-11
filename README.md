@@ -4,7 +4,7 @@
 ### Moro em São Paulo - Capital
 Solteira
 Não Tenho Filhos 
-🔭 Trabalho com uma  empresa própria de manutenção de equipamentos de informática de forma autônoma. 
+🔭 Trabalho atualmente na empresa Maestro Frotas locadora S.A 
 🌱 Atualmente estou aprendendo a programação Front-End no Senai-Ford Enter.
 
 👯 Estou procurando colaborar com meus colegas de curso informações de quem eu sou e os meus projetos que realizo através do aprendizado no curso e códigos em html, css e javascript.
