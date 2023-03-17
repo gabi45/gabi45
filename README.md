@@ -20,7 +20,7 @@ Sou uma pessoa, analítica, pró-ativa, comprometida e dedicada. Atualmente fina
 :woman_student: Formação Acadêmica <br>
 
 Curso Profissionalizante- Programador Front -End- Senai Ipiranga (Fev 2023 - Abr 2024) <br>
-Bacharelado em Administração de Empresas - Centro Universitário Senac Santo Amaro (Ago 2019 - Dez 2022) <br>  
+Bacharelado em Administração de Empresas - Centro Universitário Senac Santo Amaro (Ago 2019 - Dez 2022)  
 Bacharelado em Engenharia de Produção - Centro Universitário Senac Santo Amaro (Mar 2018 - Jun 2019) <br> 
 Técnico em Segurança do Trabalho- Senac Largo Treze (Fev 2016 - AGO 2017) <br> 
 Curso Profissionalizante- Inspetor de Qualidade- Metalmecânica - Senai Suiço Brasileiro (2017 - 2017) <br> 
