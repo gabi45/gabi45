@@ -1,6 +1,6 @@
 # Meu nome é Gabriele Francine Santos Alves
 
-<img src="https://scontent.fcgh12-1.fna.fbcdn.net/v/t39.30808-6/335589400_113383881702836_4955442697071165401_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=174925&_nc_eui2=AeErDTU98IL4bTG6bKDDNrqGUUgMD4ty1VtRSAwPi3LVW4nsJI97BZa9OlRVZVYB1LMwbsHDC4lgel14QMYbVVmL&_nc_ohc=2AiZJWxcl0QAX9gICnM&_nc_ht=scontent.fcgh12-1.fna&oh=00_AfCmjd-PzJhaxsbXOVY0y_fGC0lLzPvQWFAR6yMI0zc7_A&oe=64195E3B"/> width="20%" <br> 
+<img src="https://scontent.fcgh12-1.fna.fbcdn.net/v/t39.30808-6/335589400_113383881702836_4955442697071165401_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=174925&_nc_eui2=AeErDTU98IL4bTG6bKDDNrqGUUgMD4ty1VtRSAwPi3LVW4nsJI97BZa9OlRVZVYB1LMwbsHDC4lgel14QMYbVVmL&_nc_ohc=2AiZJWxcl0QAX9gICnM&_nc_ht=scontent.fcgh12-1.fna&oh=00_AfCmjd-PzJhaxsbXOVY0y_fGC0lLzPvQWFAR6yMI0zc7_A&oe=64195E3B"/> width="10%" <br> 
 
 ## Idade: 26 Anos
 ### Moro em São Paulo - Capital
