@@ -1,9 +1,9 @@
 # Meu nome é Gabriele Francine Santos Alves 
 
-<img src="https://scontent.fcgh12-1.fna.fbcdn.net/v/t39.30808-6/335589400_113383881702836_4955442697071165401_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=174925&_nc_eui2=AeErDTU98IL4bTG6bKDDNrqGUUgMD4ty1VtRSAwPi3LVW4nsJI97BZa9OlRVZVYB1LMwbsHDC4lgel14QMYbVVmL&_nc_ohc=2AiZJWxcl0QAX9gICnM&_nc_ht=scontent.fcgh12-1.fna&oh=00_AfCmjd-PzJhaxsbXOVY0y_fGC0lLzPvQWFAR6yMI0zc7_A&oe=64195E3B" width="20%">
+<img src="https://scontent.fcgh12-1.fna.fbcdn.net/v/t39.30808-6/335589400_113383881702836_4955442697071165401_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=174925&_nc_eui2=AeErDTU98IL4bTG6bKDDNrqGUUgMD4ty1VtRSAwPi3LVW4nsJI97BZa9OlRVZVYB1LMwbsHDC4lgel14QMYbVVmL&_nc_ohc=2AiZJWxcl0QAX9gICnM&_nc_ht=scontent.fcgh12-1.fna&oh=00_AfCmjd-PzJhaxsbXOVY0y_fGC0lLzPvQWFAR6yMI0zc7_A&oe=64195E3B" width="20%"> <br>
 
-## Idade: 26 Anos
-### Moro em São Paulo - Capital
+## Idade: 26 Anos <br> 
+### Moro em São Paulo - Capital <br> 
 Solteira <br>
 Não Tenho Filhos <br>
 Trabalhei por anos no setor de vendas em comércios locais daregião do Grajaú Zona sul de São Paulo. Após isso atuei durante 3 anos como Analista de atendimento na empresa Sitel do Brasil,onde atendi os produtos Net/Claro, Whirlpool, HBO GO, Movidae Aurélis. Em ambos atuei em diversas frentes de atendimento como Ativo e receptivo de SAC, Reclame Aqui também realizando os atendimentos via Chat, Whats app e E-mail. Bem como atuando também como backoffice dessas empresas e atualmente ocupo a posição de estagiária da área de veículos Comerciais na empresa Ford Motor Company onde trabalho com análise de dados, elaboração de relatórios, atendimento aos Dealers, Emissão de cartas correção, impressão de notas fiscais, controle e atualização de planilhas, atualização e análise de benchmarkings. 
