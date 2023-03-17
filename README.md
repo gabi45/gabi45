@@ -6,12 +6,13 @@ Solteira <br>
 Não Tenho Filhos <br>
 Trabalhei por anos no setor de vendas em comércios locais daregião do Grajaú Zona sul de São Paulo. Após isso atuei durante 3 anos como Analista de atendimento na empresa Sitel do Brasil,onde atendi os produtos Net/Claro, Whirlpool, HBO GO, Movidae Aurélis. Em ambos atuei em diversas frentes de atendimento como Ativo e receptivo de SAC, Reclame Aqui também realizando os atendimentos via Chat, Whats app e E-mail. Bem como atuando também como backoffice dessas empresas e atualmente ocupo a posição de estagiária da área de veículos Comerciais na empresa Ford Motor Company onde trabalho com análise de dados, elaboração de relatórios, atendimento aos Dealers, Emissão de cartas correção, impressão de notas fiscais, controle e atualização de planilhas, atualização e análise de benchmarkings. 
 Sou uma pessoa, analítica, pró-ativa, comprometida e dedicada. Atualmente finalizei a graduação Bacharelado em Administração de empresas no Centro Universitário Senac Santo Amaro. E em paralelo sou uma pessoa que possui engajamento em diversos projetos e ações sociais durante o período em que cursei a graduação.
-🔭 Trabalho atualmente na empresa Vatech Brasil no cargo de Assistente Administrativo 
-🌱 Sou formado na área de Administração de empresas pelo centro Universitário Senac Santo Amaro. E atualmente estou aprendendo no curso programador de Front-End no Senai-Ford Enter
-👯 Estou procurando colaborar com meus colegas de curso informações de quem eu sou e os meus projetos que realizo através do aprendizado no curso e códigos em html, css e javascript.
+🔭 Trabalho atualmente na empresa Vatech Brasil no cargo de Assistente Administrativo. <br>
+🌱 Sou formada na área de Administração de empresas pelo centro Universitário Senac Santo Amaro. E atualmente estou aprendendo no curso programador de Front-End no Senai-Ford Enter <br> 
+👯 Estou a procura de uma nova formação profissional a qual me possibilite atuar com mais versatilidade no mercado de trabalho, e com isso procuro sempr colaborar com meus colegas de curso informações de quem eu sou e os meus projetos que realizo através do aprendizado no curso e a troca de informações de acordo com os aprendizados a cada aula códigos em html, css e javascript. <br> 
 
-🤔 Procuro ajuda com oportunidades de emprego na área de desenvolvimento Front End.
-
+:grin: Colei grau recentemente, e consegui já me recolocar no mercado em uma posição dentro da área com a qual me formei. <br>
+Experiências Profissionais <br>
+Graduada em Administração de Empresas - Centro Universitário Senac (2018-2022) 
 
 Minha formação é: Téc. em Segurança do Trabalho e Graduada em Administração de empresas 
 Estou me especializando na área de programação Front End em HTML, CSS e Java Script
