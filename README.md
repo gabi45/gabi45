@@ -17,7 +17,7 @@ Sou uma pessoa, analítica, pró-ativa, comprometida e dedicada. Atualmente fina
 
 :grin: Colei grau recentemente, e consegui me recolocar no mercado em uma posição dentro da área com a qual me formei. <br>
 
-:woman_student: Experiências Profissionais <br>
+:woman_student: Formação Acadêmica <br>
 
 Curso Profissionalizante- Programador Front -End- Senai Ipiranga (Fev 2023 - Abr 2024) <br>
 Bacharelado em Administração de Empresas - Centro Universitário Senac Santo Amaro (Ago 2019 - Dez 2022) <br>  
@@ -25,6 +25,15 @@ Bacharelado em Engenharia de Produção - Centro Universitário Senac Santo Amar
 Técnico em Segurança do Trabalho- Senac Largo Treze (Fev 2016 - AGO 2017) <br> 
 Curso Profissionalizante- Inspetor de Qualidade- Metalmecânica - Senai Suiço Brasileiro (2017 - 2017) <br> 
 Auxiliar de Escritório - Centro Universitário Senac Santo Amaro (2013 - 2013) <br> 
+
+:woman_office_worker: Experiências Profissionais <br> 
+
+Assistente Administrativo Vendas - Vatech Brasil (Mar 2023 - o momento) <br> 
+Assistente Comercial - Maestro Frotas - (Jan 2023- Mar 2023) 2 meses <br> 
+Estagiária Commercial Vehícles - Ford Motor Company (Jan 2021 - Jan 2022) 2 anos <br> 
+Analista de Mercado Júnior - Movetruly Lead Management (Jan 2020 - Mar 2020) 3 meses <br> 
+Analista de Atendimento ao cliente - Sitel do Brasil (Ago 2017 - Jan 2020) 2 anos e 6 meses <br> 
+Vendedora - Francis Lingerie (Nov 2012 - Set 2015) 2 anos e 11 meses <br> 
 
 
 <img src="https://pps.whatsapp.net/v/t61.24694-24/315780251_500515648734624_314079439919280424_n.jpg?ccb=11-4&oh=01_AdTkSkwo_CWKUzGUhOBaisRzIREPLAjXf6mwCBvB3sPE3w&oe=641A0D5C" width="20%">
