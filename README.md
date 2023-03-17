@@ -1,5 +1,10 @@
 
 # Meu nome é Gabriele Francine Santos Alves
+
+<img src="Uploading 335589400_113383881702836_4955442697071165401_n.jpg…]() width="20%"> <br>
+
+<img src="![Uploading 335589400_113383881702836_4955442697071165401_n.jpg…]()"/>
+
 ## Idade: 26 Anos
 ### Moro em São Paulo - Capital
 Solteira <br>
