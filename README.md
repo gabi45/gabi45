@@ -17,7 +17,7 @@ Sou uma pessoa, analítica, pró-ativa, comprometida e dedicada. Atualmente fina
 
 :grin: Colei grau recentemente, e consegui me recolocar no mercado em uma posição dentro da área com a qual me formei. <br>
 
-Experiências Profissionais <br>
+:woman_student: Experiências Profissionais <br>
 
 Curso Profissionalizante- Programador Front -End- Senai Ipiranga (Fev 2023 - Abr 2024) <br>
 Bacharelado em Administração de Empresas - Centro Universitário Senac Santo Amaro (Ago 2019 - Dez 2022) <br>  
