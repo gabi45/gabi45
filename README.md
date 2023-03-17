@@ -15,11 +15,15 @@ Sou uma pessoa, analítica, pró-ativa, comprometida e dedicada. Atualmente fina
 👯 Estou a procura de uma nova formação profissional a qual me possibilite atuar com mais versatilidade no mercado de trabalho, e com isso procuro sempr colaborar com meus colegas de curso informações de quem eu sou e os meus projetos que realizo através do aprendizado no curso e a troca de informações de acordo com os aprendizados a cada aula códigos em html, css e javascript. <br> 
 
 :grin: Colei grau recentemente, e consegui já me recolocar no mercado em uma posição dentro da área com a qual me formei. <br>
-Experiências Profissionais <br>
-Graduada em Administração de Empresas - Centro Universitário Senac (2018-2022) 
 
-Minha formação é: Téc. em Segurança do Trabalho e Graduada em Administração de empresas 
-Estou me especializando na área de programação Front End em HTML, CSS e Java Script
+Experiências Profissionais <br>
+
+Curso Profissionalizante- Programador Front -End- Senai Ipiranga (Fev 2023 - Abr 2024) <br>
+Bacharelado em Administração de Empresas - Centro Universitário Senac Santo Amaro (Ago 2019 - Dez 2022) <br>  
+Bacharelado em Engenharia de Produção - Centro Universitário Senac Santo Amaro (Mar 2018 - Jun 2019) <br> 
+Técnico em Segurança do Trabalho- Senac Largo Treze (Fev 2016 - AGO 2017) <br> 
+Curso Profissionalizante- Inspetor de Qualidade- Metalmecânica - Senai Suiço Brasileiro (2017 - 2017) <br> 
+Auxiliar de Escritório - Centro Universitário Senac Santo Amaro (2013 - 2013) <br> 
 
 
 <img src="https://pps.whatsapp.net/v/t61.24694-24/315780251_500515648734624_314079439919280424_n.jpg?ccb=11-4&oh=01_AdTkSkwo_CWKUzGUhOBaisRzIREPLAjXf6mwCBvB3sPE3w&oe=641A0D5C" width="20%">
