@@ -14,7 +14,7 @@ Sou uma pessoa, analítica, pró-ativa, comprometida e dedicada. Atualmente fina
 
 👯 Estou a procura de uma nova formação profissional a qual me possibilite atuar com mais versatilidade no mercado de trabalho, e com isso procuro sempr colaborar com meus colegas de curso informações de quem eu sou e os meus projetos que realizo através do aprendizado no curso e a troca de informações de acordo com os aprendizados a cada aula códigos em html, css e javascript. <br> 
 
-:grin: Colei grau recentemente, e consegui já me recolocar no mercado em uma posição dentro da área com a qual me formei. <br>
+:grin: Colei grau recentemente, e consegui me recolocar no mercado em uma posição dentro da área com a qual me formei. <br>
 
 Experiências Profissionais <br>
 
