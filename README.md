@@ -35,11 +35,10 @@ Analista de Mercado Júnior - Movetruly Lead Management (Jan 2020 - Mar 2020) 3 
 Analista de Atendimento ao cliente - Sitel do Brasil (Ago 2017 - Jan 2020) 2 anos e 6 meses <br> 
 Vendedora - Francis Lingerie (Nov 2012 - Set 2015) 2 anos e 11 meses <br> 
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.telavita.com.br%2Fblog%2Fwp-content%2Fuploads%2F2018%2F01%2Fajudar.jpg&tbnid=-QdR9szdD4xqoM&vet=12ahUKEwit8_yKl-T9AhVCN7kGHSYyA3wQMygOegUIARD6AQ..i&imgrefurl=https%3A%2F%2Fwww.telavita.com.br%2Fblog%2Ftrabalho-voluntario%2F&docid=il0k0vPGiurWoM&w=900&h=560&q=trabalho%20volunt%C3%A1rio&ved=2ahUKEwit8_yKl-T9AhVCN7kGHSYyA3wQMygOegUIARD6AQ" width="20%"> <br> Trabalho Voluntário 
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.telavita.com.br%2Fblog%2Fwp-content%2Fuploads%2F2018%2F01%2Fajudar.jpg&tbnid=-QdR9szdD4xqoM&vet=12ahUKEwit8_yKl-T9AhVCN7kGHSYyA3wQMygOegUIARD6AQ..i&imgrefurl=https%3A%2F%2Fwww.telavita.com.br%2Fblog%2Ftrabalho-voluntario%2F&docid=il0k0vPGiurWoM&w=900&h=560&q=trabalho%20volunt%C3%A1rio&ved=2ahUKEwit8_yKl-T9AhVCN7kGHSYyA3wQMygOegUIARD6AQ" width="20%"> <br> Trabalho Voluntário
 
 
-<img src="https://pps.whatsapp.net/v/t61.24694-24/315780251_500515648734624_314079439919280424_n.jpg?ccb=11-4&oh=01_AdTkSkwo_CWKUzGUhOBaisRzIREPLAjXf6mwCBvB3sPE3w&oe=641A0D5C" width="20%">
-
+<img src="https://pps.whatsapp.net/v/t61.24694-24/315780251_500515648734624_314079439919280424_n.jpg?ccb=11-4&oh=01_AdTkSkwo_CWKUzGUhOBaisRzIREPLAjXf6mwCBvB3sPE3w&oe=641A0D5C" width="20%"width
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=square&logo=Github&logoColor=white&link=https://github.com/gabi45)](https://github.com/gabi45)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/gabriele-francine-226855141)](http://linkedin.com/in/gabriele-francine-226855141)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=square&logo=Gmail&logoColor=white&link=mailto:gabrielesjefrancine@gmail.com)](mailto:gabrielesjefrancine@gmail.com)
