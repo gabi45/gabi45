@@ -47,6 +47,7 @@ CREARC - Centro de Renovação Cristã - Líder e coordenadora da Ação (Jul 20
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=square&logo=Github&logoColor=white&link=https://github.com/gabi45)](https://github.com/gabi45)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/gabriele-francine-226855141)](http://linkedin.com/in/gabriele-francine-226855141)
+https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=[http://instagram.com/in/gabriele-francine-226855141](https://www.instagram.com/stories/gabriele_francine/3060168377281174285/))](https://www.instagram.com/stories/gabriele_francine/3060168377281174285/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=square&logo=Gmail&logoColor=white&link=mailto:gabrielesjefrancine@gmail.com)](mailto:gabrielesjefrancine@gmail.com)
     
      
