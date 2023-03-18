@@ -37,6 +37,13 @@ Vendedora - Francis Lingerie (Nov 2012 - Set 2015) 2 anos e 11 meses <br>
 
 :honeybee: Trabalho Voluntário <br> 
 
+Missão Belém - Líder e coordenadora da Ação Social (Out 2022 - Dez 2022) 3 meses
+Bem em Comum - Líder e coordenadora da Ação Social (Fev 2022 - Abr 2022) 3 meses
+Aquecendo corações - Líder e coordenadora da Ação Social (Mar 2021 - Jul 2021) 5 meses
+Centro Universitário Senac - Gerente de Projetos e Líder de Equipe (Fev 2021 - Dez 2022) 1 ano e 11 meses
+Missão Belém - Controladora e Organizadora Financeira (Out 2022 - Dez 2022) 3 meses 
+CREARC - Centro de Renovação Cristã - Líder e coordenadora da Ação (Jul 2019 - Dez 2019) 6 meses 
+
 <img src="https://pps.whatsapp.net/v/t61.24694-24/315780251_500515648734624_314079439919280424_n.jpg?ccb=11-4&oh=01_AdTkSkwo_CWKUzGUhOBaisRzIREPLAjXf6mwCBvB3sPE3w&oe=641A0D5C" width="20%"width
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=square&logo=Github&logoColor=white&link=https://github.com/gabi45)](https://github.com/gabi45)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/gabriele-francine-226855141)](http://linkedin.com/in/gabriele-francine-226855141)
