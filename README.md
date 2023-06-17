@@ -13,7 +13,7 @@ Sou uma pessoa, analítica, pró-ativa, comprometida e dedicada. Atualmente fina
 
 🌱 Sou formada na área de Administração de empresas pelo centro Universitário Senac Santo Amaro. E atualmente estou aprendendo no curso programador de Front-End no Senai-Ford Enter. <br> 
 
-👯 Estou a procura de uma nova formação profissional a qual me possibilite atuar com mais versatilidade no mercado de trabalho, e com isso procuro sempr colaborar com meus colegas de curso informações de quem eu sou e os meus projetos que realizo através do aprendizado no curso e a troca de informações de acordo com os aprendizados a cada aula códigos em html, css e javascript. <br> 
+👯 Estou a procura de uma nova formação profissional a qual me possibilite atuar com mais versatilidade no mercado de trabalho, e com isso procuro sempre colaborar com meus colegas de curso informações de quem eu sou e os meus projetos que realizo através do aprendizado no curso e a troca de informações de acordo com os aprendizados a cada aula códigos em html, css e javascript. <br> 
 
 :grin: Colei grau recentemente, e consegui me recolocar no mercado em uma posição dentro da área com a qual me formei. <br>
 
